@@ -625,5 +625,14 @@
         clGoogleMap();
 
     })();
+
+
+    $('.entry').click(function(){
+        window.location.replace('https://biyond.herokuapp.com/' + $(this).attr('link'));
+    }) /* testar se eu clicar no Home e depois na imagem ele ainda funciona */
+
+    /*$('.entry').click(function(){
+        window.location.replace('file:///home/igor/projetos/biyond/static/' + $(this).attr('link'));
+    })*/
         
 })(jQuery);

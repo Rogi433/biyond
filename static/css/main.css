@@ -4244,4 +4244,11 @@ footer h4::after {
     color: violet;
 }
 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
 /*# sourceMappingURL=main.css.map */

@@ -740,8 +740,8 @@ input[type="url"]:focus,
 input[type="password"]:focus,
 textarea:focus,
 select:focus {
-   color: #0054a5;
-   border-bottom: 2px solid #0054a5;
+   color: violet;
+   border-bottom: 2px solid violet;
 }
 
 label, legend {
@@ -777,19 +777,19 @@ label > input[type="checkbox"], label > input[type="radio"] {
  * ## Style Placeholder Text
  * ------------------------------------------------------------------- */
 ::-webkit-input-placeholder {
-   color: #6d6d6d;
+   color: violet;
 }
 
 :-moz-placeholder {
-   color: #6d6d6d;  /* Firefox 18- */
+   color: violet;  /* Firefox 18- */
 }
 
 ::-moz-placeholder {
-   color: #6d6d6d;  /* Firefox 19+ */
+   color: violet;  /* Firefox 19+ */
 }
 
 :-ms-input-placeholder {
-   color: #6d6d6d;
+   color: violet;
 }
 
 .placeholder {
@@ -877,8 +877,8 @@ button.btn--primary:focus,
 input[type="submit"].btn--primary:focus,
 input[type="reset"].btn--primary:focus,
 input[type="button"].btn--primary:focus {
-   background: #0054a5;
-   border-color: #0054a5;
+   background: blueviolet;
+   border-color: blueviolet;
 }
 
 /* button modifiers
@@ -905,8 +905,8 @@ input[type="button"].btn--primary:focus {
 }
 
 .btn--stroke:hover, button.btn--stroke:hover {
-   border: 0.2rem solid #0054a5;
-   color: #0054a5;
+   border: 0.2rem solid blueviolet;
+   color: blueviolet;
 }
 
 .btn--pill, button.btn--pill {

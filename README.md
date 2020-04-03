@@ -1,2 +1,4 @@
 # biyond
-site de tournoi de caps pour le bureau international
+site de campagne pour le bureau international.
+
+http://biyond.herokuapp.com/
